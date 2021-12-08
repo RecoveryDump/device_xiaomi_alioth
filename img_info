@@ -1,0 +1,8 @@
+boot magic: ANDROID!
+kernel_size: 50475020
+ramdisk size: 19856685
+os version: 11.0.0
+os patch level: 2021-11
+boot image header version: 3
+command line args: 
+ramdisk format: gzip
